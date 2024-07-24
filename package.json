@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/garyboyle/communication-angel/issues"
   },
-  "homepage": "https://github.com/garyboyle/communication-angel#readme"
+  "homepage": "https://github.com/garyboyle/communication-angel#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.6"
+  }
 }
