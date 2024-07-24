@@ -1,0 +1,19 @@
+{
+  "name": "communication-angel",
+  "version": "1.0.0",
+  "description": "The website for Communication Angel ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garyboyle/communication-angel.git"
+  },
+  "author": "Gary Boyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garyboyle/communication-angel/issues"
+  },
+  "homepage": "https://github.com/garyboyle/communication-angel#readme"
+}
